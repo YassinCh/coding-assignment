@@ -1,2 +1,2 @@
 # coding-assignment
-Vendlify Coding Assignment Setup
+Provides basic setup for the vendlify coding assesment
